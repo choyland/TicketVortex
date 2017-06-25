@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketVortex.Cms", "TicketVortex.Cms\TicketVortex.Cms.csproj", "{A5CF64B8-491A-4403-AD7C-0656A5318BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketVortex.Cms.Model", "TicketVortex.Cms.Model\TicketVortex.Cms.Model.csproj", "{9742C419-F1CF-4286-9574-0F8C832955FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketVortex.Cms.BusinessLayer", "TicketVortex.Cms.BusinessLayer\TicketVortex.Cms.BusinessLayer.csproj", "{7CAEB2DD-7B1A-4AD9-B243-DD02BE2D3CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5CF64B8-491A-4403-AD7C-0656A5318BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CF64B8-491A-4403-AD7C-0656A5318BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CF64B8-491A-4403-AD7C-0656A5318BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CF64B8-491A-4403-AD7C-0656A5318BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9742C419-F1CF-4286-9574-0F8C832955FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9742C419-F1CF-4286-9574-0F8C832955FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9742C419-F1CF-4286-9574-0F8C832955FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9742C419-F1CF-4286-9574-0F8C832955FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CAEB2DD-7B1A-4AD9-B243-DD02BE2D3CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CAEB2DD-7B1A-4AD9-B243-DD02BE2D3CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CAEB2DD-7B1A-4AD9-B243-DD02BE2D3CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CAEB2DD-7B1A-4AD9-B243-DD02BE2D3CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
